@@ -36,7 +36,7 @@
 [Request Feature][issues-url]
 </div>
 
-[![screenshot][screenshot-url]][demo-url]
+[![photo][photo-url]][demo-url]
 
 ***
 
@@ -155,7 +155,7 @@ enjoy it!
 This Repo is used as a template for the open source projects
 just make a copy of it and change the commented keywords in the first of the file
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this space to show useful examples of how a project can be used. Additional photos, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -257,9 +257,9 @@ For more, check out the [License File][license-url].
 [forks-url]: https://github.com/suliman-99/open-source-projects-template/network/members
 [stars-url]: https://github.com/suliman-99/open-source-projects-template/stargazers
 [issues-url]: https://github.com/suliman-99/open-source-projects-template/issues
-[license-url]: https://github.com/suliman-99/open-source-projects-template/blob/main/LICENSE
-[contributing-url]: https://github.com/suliman-99/open-source-projects-template/blob/main/CONTRIBUTING.md
-[screenshot-url]: https://github.com/suliman-99/open-source-projects-template/blob/main/screenshot.png
+[license-url]: ./LICENSE
+[contributing-url]: ./CONTRIBUTING.md
+[photo-url]: ./photo.png
 [demo-url]: https://github.com/suliman-99/open-source-projects-template
 
 
